@@ -9,7 +9,7 @@ alsrua7222/alsrua7222 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-#자기소개 겸 에피소드 겸 회고록...?
+# 자기소개 겸 에피소드 겸 회고록...?
 
 안녕하세요. 김민겸입니다.   
 7살 때, 작은 형한테 컴퓨터를 배워 게임을 즐기기 시작했습니다.
