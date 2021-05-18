@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 #### 6. 수학
 
 # 현재 가지고 있는 기술 - 2021/05/18   
-#### - BackEnd(Client)
-####   - 언어: Java, Python
-####   - 데이터베이스: MySql, Firebase
+- BackEnd(Client)
+  - 언어: Java, Python
+  - 데이터베이스: MySql, Firebase
 #### - FrontEnd(Server)
 ####   - 언어: C++, JavaScript, HTML, CSS, XML
 ####   - 호스팅: Netlify, Firebase Cloud
