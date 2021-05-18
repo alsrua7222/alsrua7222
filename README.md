@@ -8,6 +8,52 @@
 alsrua7222/alsrua7222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 간단 소개
+### 이름: 김민겸
+### 학력: 경남대학교 컴퓨터공학부 소프트웨어과
+### 이메일: alsrua7222@naver.com
+### 블로그: https://blog.naver.com/alsrua7222/ or https://github.com/alsrua7222/
+### 좌우명: 끝까지 간다.
+
+# 강점(순위) - 2021/05/17
+#### 1. Python   
+#### 2. C++   
+#### 3. Java   
+#### 4. Android
+#### 5. Design(Front End, Game Characters, others...)
+#### 6. 수학
+
+# 현재 가지고 있는 기술 - 2021/05/18   
+#### - BackEnd(Client)
+  #### - 언어: Java, Python
+  #### - 데이터베이스: MySql, Firebase
+#### - FrontEnd(Server)
+  #### - 언어: C++, JavaScript, HTML, CSS, XML
+  #### - 호스팅: Netlify, Firebase Cloud
+#### - 개발 환경 도구(IDE): Pycham, Visual Studio 2019, Visual Studio Code, Android Studio
+#### - 문서 작성 실력: MS 오피스 제품(워드, 파워포인트, 엑셀) 중, 한글
+  #### - 상: 워드
+  #### - 중: 파워포인트
+  #### - 하: 한글, 엑셀
+
+# 현재 배우고 있는 것 - 2021/05/17
+#### 1. AI(졸업작품-자동 매매 시스템 구축)   
+#### 2. Kotlin(운동 서비스 구축)
+#### 3. Python(코딩테스트 준비, 오픈소스 다양성 즐기기)
+#### 4. REST API, CURL(파이썬으로 구축하기 어려운 통신을 위한 것)
+
+# 작품
+- **2019학년도 2학기**
+  - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
+- **2020학년도 1학기**
+- **2020학년도 2학기**
+  - [SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite) - Selenium, Python   
+  - [TruckTalk](https://github.com/alsrua7222/TruckTalk) - Java, Android, Firebase   
+- **2021학년도 1학기**
+  - [BouncingBall](https://github.com/alsrua7222/BouncingBall) - JavaScript, Phaser, Netlfy   
+  - [Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess) - Python, Telegrame Bot, PyQt, Upbit API   
+- **2022학년도 2학기**
+
 
 # 자기소개 겸 에피소드 겸 회고록...?
 
@@ -36,29 +82,3 @@ _2학기 때, 유남현 교수님이 저를 많이 괴롭혔습니다. 차상위
 
 현재는 들어가고 싶은 것은 당연히 **~~네카라쿠배당토~~**    
 는 농담이고 자유롭게 개발할 수 있고, 유저들과 소통을 즐기거나 수학적으로 접근으로 하는 개발을 밀어주는 기업이라면 거기서 일해보고 싶은 생각이 듭니다.   
-
-# 강점(순위) - 2021/05/17
-1. Python   
-2. C++   
-3. Java   
-4. Android
-5. Design(Front End, Game Characters, others...)
-6. 수학
-
-# 현재 배우고 있는 것 - 2021/05/17
-1. AI(졸업작품-자동 매매 시스템 구축)   
-2. Kotlin(운동 서비스 구축)
-3. Python(코딩테스트 준비, 오픈소스 다양성 즐기기)
-4. REST API, CURL(파이썬으로 구축하기 어려운 통신을 위한 것)
-
-# 작품
-- **2019학년도 2학기**
-  - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
-- **2020학년도 1학기**
-- **2020학년도 2학기**
-  - [SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite) - Selenium, Python   
-  - [TruckTalk](https://github.com/alsrua7222/TruckTalk) - Java, Android, Firebase   
-- **2021학년도 1학기**
-  - [BouncingBall](https://github.com/alsrua7222/BouncingBall) - JavaScript, Phaser, Netllfy   
-  - [Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess) - Python, Telegrame Bot, PyQt, Upbit API   
-- **2022학년도 2학기**
