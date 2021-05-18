@@ -57,9 +57,14 @@ You can click the Preview link to take a look at your changes.
 - **2019학년도 2학기**
   - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
 - **2020학년도 1학기**
+  - 객체지향 프로그래밍: 개인 프로젝트로 보고서를 냈지만, 책이랑 똑같이 하라고 지시받았기 때문에 개인적으로 경험을 쌓지 못 했다고 판단하고 블로그, 깃허브에 기록하지 않음.
 - **2020학년도 2학기**
   - [SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite) - Selenium, Python   
   - [TruckTalk](https://github.com/alsrua7222/TruckTalk) - Java, Android, Firebase   
+  - 스마트 디바이스: 3개 프로젝트가 있었지만 책에 있는 내용으로 한 프로젝트이기 때문에 개인적으로 경험을 쌓았지만 너무 기초적이여서 따로 블로그, 깃허브에 기록하지 않음.
+    - 계산기 앱: 현실에 있는 전자 계산기를 흉내낸 내용.
+    - 그림판 앱: 색깔과 드로잉 형태와 백화지를 구현해서 그리는 내용.
+    - 암시적 인텐트 구현: 액티비티 생애주기를 직접 실습하여 메인 액티비티, 서브 액티비티, 다양한 인텐트 등을 불러오는 내용.
 - **2021학년도 1학기**
   - [BouncingBall](https://github.com/alsrua7222/BouncingBall) - JavaScript, Phaser, Netlfy   
   - [Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess) - Python, Telegrame Bot, PyQt, Upbit API   
