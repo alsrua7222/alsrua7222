@@ -25,12 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 # 현재 가지고 있는 기술 - 2021/05/18   
 #### - BackEnd(Client)
-  #### - 언어: Java, Python
-  #### - 데이터베이스: MySql, Firebase
+####   - 언어: Java, Python
+####   - 데이터베이스: MySql, Firebase
 #### - FrontEnd(Server)
-  #### - 언어: C++, JavaScript, HTML, CSS, XML
-  #### - 호스팅: Netlify, Firebase Cloud
-#### - 개발 환경 도구(IDE): Pycham, Visual Studio 2019, Visual Studio Code, Android Studio
+####   - 언어: C++, JavaScript, HTML, CSS, XML
+####   - 호스팅: Netlify, Firebase Cloud
+#### - 개발 환경 도구(IDE): 
+####  - Pycham
+####  - Visual Studio 2019
+####  - Visual Studio Code
+####  - Android Studio
 #### - 문서 작성 실력: MS 오피스 제품(워드, 파워포인트, 엑셀) 중, 한글
   #### - 상: 워드
   #### - 중: 파워포인트
