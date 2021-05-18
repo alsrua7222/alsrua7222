@@ -52,8 +52,8 @@ _2학기 때, 유남현 교수님이 저를 많이 괴롭혔습니다. 차상위
 4. REST API, CURL(파이썬으로 구축하기 어려운 통신을 위한 것)
 
 # 작품
-## 2019학년도 2학기
-- [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
+- 2019학년도 2학기
+- - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
 ## 2020학년도 1학기
 ## 2020학년도 2학기
 - [SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite) - Selenium, Python   
