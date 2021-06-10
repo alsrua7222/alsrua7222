@@ -68,6 +68,7 @@ You can click the Preview link to take a look at your changes.
 - **2021학년도 1학기**
   - [BouncingBall](https://github.com/alsrua7222/BouncingBall) - JavaScript, Phaser, Netlfy   
   - [Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess) - Python, Telegrame Bot, PyQt, Upbit API   
+  - 수업 파이썬 프로그래밍 프로젝트 준비 중(사용 기술, HTML, CSS, JAVASCRIPT, FLASK, RaspberryPi, Threading, Robotics(4WD Car), 팀 4인 구성.   
 - **2021학년도 2학기**
 
 
