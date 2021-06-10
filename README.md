@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 - **2021학년도 1학기**
   - [BouncingBall](https://github.com/alsrua7222/BouncingBall) - JavaScript, Phaser, Netlfy   
   - [Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess) - Python, Telegrame Bot, PyQt, Upbit API   
-- **2022학년도 2학기**
+- **2021학년도 2학기**
 
 
 # 자기소개 겸 에피소드 겸 회고록...?
