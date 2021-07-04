@@ -106,7 +106,7 @@ You can click the Preview link to take a look at your changes.
       - 김민겸: 리눅스 설정, 소스코드 수정, 문제에 대한 정보 제시 후 해결방안 답변을 나오도록 매니저에게 브레인 스토밍을 유도하게끔 요구.   
       - 고민지: 장비, 리눅스 포맷, 카메라 셋팅.   
       - 이성제: 장비, 하드웨어 부품 담당, 리눅스 포맷, 카메라 셋팅.   
-  - [AI AUTO TRADING]
+  - [AI AUTO TRADING](https://github.com/alsrua7222/AIAutoTradingProject)
     - 공개 레포지토리: PPT, 시연 영상물, 대본
     - 비공개 레포지토리: TS 소스코드, Python 소스코드, Flask, HTML, CSS 등 종합적인 웹 프로그래밍 소스코드, 컨트리뷰터 김민겸 포함 3명.
     - 특이점: 친구들은 내 장애를 잘 알고 있기 때문에, 대면에서 소통할 때 천천히 크게 이야기를 하고, 비대면에서 카톡 또는 노트패드로 자주 이야기를 함. 그래서 매니저 역할을 가질 필요가 없음.
