@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @alsrua7222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+# 방문자 수
 ![](https://komarev.com/ghpvc/?username=alsrua7222-github-alsrua7222)
 
 
@@ -118,5 +113,15 @@ You can click the Preview link to take a look at your changes.
       - Bithumb API 조사, 가상 화폐 데이터 연산 방법 검증, DB와 최종 결과물 보여주는 형태 제안, 테스터 포지션으로 가상화폐 백테스팅, 발표 코칭, 보고서 및 일정 체크.
       - 김경승: 팀장, 매주마다 보고서 작성, 가상 화폐 데이터 연산 모듈 구현, 최종 발표자, 신성진과 같이 진도를 거의 진행함.
   - 한국인이 못 깨는 맵(Warcraft3 Frozen UseMap) - JassNative
-    - 특징: 평범한 이름보다 불순하고 자극적인 이름으로 배포했을 경우는 플레이어가 더 많았음.   처음에 불순한 목적을 가진 플레이어들이였지만, 나중에 게임 진행도가 재밌다고 클리어 목적으로 하는 사람들이 점점 보임. 그러나, 일방향 진행 패턴이고, 클리어 후 받는 보상 체계가 없어서 중간에 하는 하는 사람이 11명 x 6방 = 77명 이였으나, 거의 클리어한 사람들이 다시 하지를 않음.
+    - 특징: 평범한 이름보다 불순하고 자극적인 이름으로 배포했을 경우는 플레이어가 더 많았음.   처음에 불순한 목적을 가진 플레이어들이였지만, 나중에 게임 진행도가 재밌다고 클리어 목적으로 하는 사람들이 점점 보임. 그러나, 일방향 진행 패턴이고, 클리어 후 받는 보상 체계가 없어서 중간에 하는 하는 사람이 11명 x 7방 = 77명 이였으나, 거의 클리어한 사람들이 다시 하지를 않음.
 - **2021학년도 2학기**
+
+## 셀프체크
+- 백준
+![1](https://user-images.githubusercontent.com/59680587/128967661-ed2bdb58-ac3e-4458-919b-9206fd9655be.PNG)
+
+- 프로그래머스
+![2](https://user-images.githubusercontent.com/59680587/128967685-918167ae-793e-4edf-9743-5016d88c764d.PNG)
+
+- 봉사활동
+![3](https://user-images.githubusercontent.com/59680587/128967707-78956c2d-1391-4522-b287-423823fe93d5.PNG)
