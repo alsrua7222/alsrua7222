@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
   <div markdown="2">
     Bye
   </div>
-  </detials>
+</detials>
 - **2019학년도 2학기**
   - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
     - 학점: A+
