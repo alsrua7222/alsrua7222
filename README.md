@@ -49,17 +49,13 @@ You can click the Preview link to take a look at your changes.
 #### 1. Python(코딩테스트 준비, 오픈소스 다양성 즐기기, AI위한)
 #### 2. 프론트앤드와 백앤드의 특징과 차이점, 풀스택 의미, 내 분야가 어느 쪽에 있는지 성찰하기.
 
-# 작품
 <details>
-  <summary>2019학년도 2학기</summary>
-  <div markdown="1">
+  <summary>작품 접기/펼치기</summary>   
+  
     Hello
-  </div>
-  <div markdown="2">
-    Bye
-  </div>
+  
 </detials>   
-
+# 작품
 - **2019학년도 2학기**
   - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
     - 학점: A+
