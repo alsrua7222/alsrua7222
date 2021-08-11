@@ -49,13 +49,10 @@ You can click the Preview link to take a look at your changes.
 #### 1. Python(코딩테스트 준비, 오픈소스 다양성 즐기기, AI위한)
 #### 2. 프론트앤드와 백앤드의 특징과 차이점, 풀스택 의미, 내 분야가 어느 쪽에 있는지 성찰하기.
 
-<details>
-  <summary>작품 접기/펼치기</summary>
-    <div markdown="1">
-      
-      Hello World
-      
-    </div>
+<details><summary>작품 접기/펼치기</summary>
+  <div markdown="1">
+    Hello World
+  </div>
 </detials>   
 
 # 작품
