@@ -51,9 +51,12 @@ You can click the Preview link to take a look at your changes.
 
 # 작품
 <details>
-  <summary>**2019학년도 2학기**</summary>
+  <summary>2019학년도 2학기</summary>
   <div markdown="1">
     Hello
+  </div>
+  <div markdown="2">
+    Bye
   </div>
   </detials>
 - **2019학년도 2학기**
