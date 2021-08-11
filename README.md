@@ -52,9 +52,14 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>작품 접기/펼치기</summary>   
   
-    Hello
+    <div markdown="1">
+      
+      Hello World
+      
+    </div>
   
 </detials>   
+
 # 작품
 - **2019학년도 2학기**
   - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
