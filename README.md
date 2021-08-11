@@ -49,8 +49,6 @@ You can click the Preview link to take a look at your changes.
 #### 1. Python(코딩테스트 준비, 오픈소스 다양성 즐기기, AI위한)
 #### 2. 프론트앤드와 백앤드의 특징과 차이점, 풀스택 의미, 내 분야가 어느 쪽에 있는지 성찰하기.
 
-<details><summary>작품 접기/펼치기</summary>
-  <div markdown="1">
 # 작품
 - **2019학년도 2학기**
   - [MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph) - C++, MFC   
@@ -116,9 +114,8 @@ You can click the Preview link to take a look at your changes.
       - 김경승: 팀장, 매주마다 보고서 작성, 가상 화폐 데이터 연산 모듈 구현, 최종 발표자, 신성진과 같이 진도를 거의 진행함.
   - 한국인이 못 깨는 맵(Warcraft3 Frozen UseMap) - JassNative
     - 특징: 평범한 이름보다 불순하고 자극적인 이름으로 배포했을 경우는 플레이어가 더 많았음.   처음에 불순한 목적을 가진 플레이어들이였지만, 나중에 게임 진행도가 재밌다고 클리어 목적으로 하는 사람들이 점점 보임. 그러나, 일방향 진행 패턴이고, 클리어 후 받는 보상 체계가 없어서 중간에 하는 하는 사람이 11명 x 7방 = 77명 이였으나, 거의 클리어한 사람들이 다시 하지를 않음.
-- **2021학년도 2학기**
-  </div>
-</detials>
+- **2021학년도 2학기**   
+    
 ## 셀프체크
 - 백준
 ![1](https://user-images.githubusercontent.com/59680587/128967661-ed2bdb58-ac3e-4458-919b-9206fd9655be.PNG)
