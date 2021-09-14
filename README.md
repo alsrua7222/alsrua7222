@@ -119,7 +119,9 @@ You can click the Preview link to take a look at your changes.
     
 ## 셀프체크
 - 백준
-![1](https://user-images.githubusercontent.com/59680587/128967661-ed2bdb58-ac3e-4458-919b-9206fd9655be.PNG)
+![1](https://user-images.githubusercontent.com/59680587/128967661-ed2bdb58-ac3e-4458-919b-9206fd9655be.PNG)   
+![1_1](https://user-images.githubusercontent.com/59680587/133199637-7f71b0c0-788e-4f2d-b479-696c88e09327.png)
+
 
 - 프로그래머스
 ![2](https://user-images.githubusercontent.com/59680587/128967685-918167ae-793e-4edf-9743-5016d88c764d.PNG)
