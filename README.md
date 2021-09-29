@@ -22,19 +22,23 @@ You can click the Preview link to take a look at your changes.
 #### 5. 응용력(해당 문제에 대해서 한 방법이 막히면 다양한 방법을 찾아보려는 성격을 가진 편임.)
 #### 6. 수학      
 
-# 현재 가지고 있는 기술 - 2021/06/10   
+# 현재 가지고 있는 기술 - 2021/09/29   
 - BackEnd(Client)
   - 언어: Java, Python, C++
   - 데이터베이스: MySql, Firebase
 - FrontEnd(Server)
   - 언어: C++, JavaScript, HTML, CSS, XML
   - 호스팅: Netlify, Firebase Cloud
+- 분석 처리(빅분기 현재 진행 형)
+  - 언어: R, Python
+  - ETL: Hadoop, HBase, Sqoop
 - 개발 환경 도구(IDE): 
   - Pycham
   - Visual Studio 2019
   - Visual Studio Code
   - Android Studio
   - Eclipse
+  - RStudio
 - 문서 작성 실력: MS 오피스 제품(워드, 파워포인트, 엑셀) 중, 한글
   - 상: 워드
   - 중: 파워포인트
