@@ -6,13 +6,16 @@
 alsrua7222/alsrua7222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 한 눈에 알아보는 정보들
+준비 중    
+
 # 간단 소개
 ### 이름: 김민겸
 ### 학력: 경남대학교 컴퓨터공학부 소프트웨어과
 ### 이메일: alsrua7222@naver.com
 ### 블로그: https://blog.naver.com/alsrua7222/ or https://github.com/alsrua7222/
 ### 좌우명: 끝까지 간다.
-### 원하는 기업: 서로 이해를 하고 침묵을 깨는 소통이 이루어지는 곳, 개발할 맛이 나도록 듀얼모니터, 낮잠 휴식, 초콜릿, 탄산 음료 리필, 점심부터 밤까지 일할 수 있게 지원해주는 곳.     
+### 안녕하세요. 개발자로 성장하고 싶은 김민겸입니다. 개발자로 성장시킬 수 있는 회사들을 찾고 있으며, 또한 이 회사들에 들어가기 위해 상세 기술 역량과 조건 역량을 맞추면서 발버둥하고 있습니다. 학부 4학년 동안 재학하면서 웹 프로그래밍, 파이썬, C++, C, Java, Android 등 사용해봤고 주력 언어는 파이썬, 보조 언어는 C++로 잘 사용하고 있습니다. 또한 컴퓨터 공학 전공들을 대부분 좋은 성적으로 이수하였고, 자격증을 준비하면서 원하는 인재상을 만들려고 노력하고 있습니다.
 
 # 강점(순위) - 2021/08/30
 #### 1. 백앤드(Python, C++, Java 등 백그라운드에서 받는 요청들을 처리하는 행위)      
@@ -23,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 #### 6. 수학      
 
 # 현재 가지고 있는 기술 - 2021/09/29   
+### 목차
 - BackEnd(Client)
   - 언어: Java, Python, C++
   - 데이터베이스: MySql, Firebase
