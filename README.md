@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 # 현재 가지고 있는 기술 - 2021/09/29   
 ### 목차
-- BackEnd(Client)
+- BackEnd(ServerSide)
   - 언어: Java, Python, C++
   - 데이터베이스: MySql, Firebase
-- FrontEnd(Server)
+- FrontEnd(ClientSide)
   - 언어: C++, JavaScript, HTML, CSS, XML
   - 호스팅: Netlify, Firebase Cloud
 - 분석 처리(빅분기 현재 진행 형)
