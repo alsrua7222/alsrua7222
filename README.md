@@ -51,4 +51,4 @@
 [AI AUTO TRADING](https://github.com/alsrua7222/AIAutoTradingProject)   
 
 ## Old Document
-[Get link for old document.]()
+[Get link for old document.](https://github.com/alsrua7222/alsrua7222/blob/main/oldReadme.md)
