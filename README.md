@@ -1,29 +1,58 @@
 # 방문자 수
 ![](https://komarev.com/ghpvc/?username=alsrua7222-github-alsrua7222)
 
+# Simple My-self.
+------------------------------
+| Type | Description |
+| :----: | :----: |
+| Name    | MinKyeom Kim(김민겸) |
+| Final Education   | Software, Computer Engineering, KyungNam Uiv.(경남대학교 컴퓨터공학부 소프트웨어과)  |
+| Blog    | https://blog.naver.com/alsrua7222/  |
+| Motto<br>(Comment) | 끝까지 간다. |
 
-<!---
-alsrua7222/alsrua7222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 한 눈에 알아보는 정보들
-준비 중    
+## Until & Current
+------------------------------
+| Type | Description | Detail |
+| :----: | :----: | ----: |
+| First computer study | 중학교 2학년 | I got it from Cheaters. I was angry.<br>I learned language C, base CS and base english. |
+| HighSchool | Changwon KyungIl | 2015.03 ~ 2018.02 |
+| Uiv. | Kyungnam Uiv. | 2018.03 ~ 2022.02(Will graduation) |
+| Club | V.O.S | 2018.03 ~ 2019.02 menti.<br>2019.03 ~ 2020.06 mento.<br> |
+| Now | 1년 뒤에 **백수** 될 예정. | 2021.10.15 |
 
-# 간단 소개
-### 이름: 김민겸
-### 학력: 경남대학교 컴퓨터공학부 소프트웨어과
-### 이메일: alsrua7222@naver.com
-### 블로그: https://blog.naver.com/alsrua7222/ or https://github.com/alsrua7222/
-### 좌우명: 끝까지 간다.
-### 안녕하세요. 개발자로 성장하고 싶은 김민겸입니다. 개발자로 성장시킬 수 있는 회사들을 찾고 있으며, 또한 이 회사들에 들어가기 위해 상세 기술 역량과 조건 역량을 맞추면서 발버둥하고 있습니다. 학부 4학년 동안 재학하면서 웹 프로그래밍, 파이썬, C++, C, Java, Android 등 사용해봤고 주력 언어는 파이썬, 보조 언어는 C++로 잘 사용하고 있습니다. 또한 컴퓨터 공학 전공들을 대부분 좋은 성적으로 이수하였고, 자격증을 준비하면서 원하는 인재상을 만들려고 노력하고 있습니다.
 
-# 강점(순위) - 2021/08/30
-#### 1. 백앤드(Python, C++, Java 등 백그라운드에서 받는 요청들을 처리하는 행위)      
-#### 2. 수치로 표현하는 습관을 가지고 있음.(추상적으로 표현하는 것을 상황마다 다르고 대부분 잘 안 씀.)
-#### 3. 배움을 즐김.(배우는 과정이 재밌으면 즐기는 편임.)
-#### 4. 친화력(공과 사를 구분하지 않고, 거의 반말로 하는 편임. 오히려 초면에서 예의가 없어보일 수 있음.)
-#### 5. 응용력(해당 문제에 대해서 한 방법이 막히면 다양한 방법을 찾아보려는 성격을 가진 편임.)
-#### 6. 수학      
+## Skills
+-----------------------------
+**Programming Languages**<br><br>
+<img src="https://img.shields.io/badge/Python-great-success"/>
+<img src="https://img.shields.io/badge/C++-great-success"/>
+<img src="https://img.shields.io/badge/Java-basic-yellow"/>
+<img src="https://img.shields.io/badge/Kotiln-noob-red"/>
+<img src="https://img.shields.io/badge/Javascript-noob-red"/>
+<br><br>
+**Others**<br><br>
+<img src="https://img.shields.io/badge/CodeReview-advanced-blue"/>
+<img src="https://img.shields.io/badge/CodeRefactoring-advanced-blue"/>
+<img src="https://img.shields.io/badge/Algorithm-advanced-blue"/>
+<img src="https://img.shields.io/badge/Architecture-basic-yellow"/>
+<img src="https://img.shields.io/badge/MySQL-basic-yellow"/>
+
+## BOJ
+[BOJ Algorithm Study](https://github.com/alsrua7222/BOJ_Algorithm_Study)    
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mk9901)](https://solved.ac/mk9901)
+
+## Projects
+-----------------------------
+[MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph)    
+[SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite)    
+[TruckTalk](https://github.com/alsrua7222/TruckTalk)    
+[BouncingBall](https://github.com/alsrua7222/BouncingBall)    
+[Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess)    
+[AI AUTO TRADING](https://github.com/alsrua7222/AIAutoTradingProject)   
+
+## Old Document
+[Get link for old document.]()
+
 
 # 현재 가지고 있는 기술 - 2021/09/29   
 ### 목차
@@ -125,14 +154,3 @@ You can click the Preview link to take a look at your changes.
     - 특징: 평범한 이름보다 불순하고 자극적인 이름으로 배포했을 경우는 플레이어가 더 많았음.   처음에 불순한 목적을 가진 플레이어들이였지만, 나중에 게임 진행도가 재밌다고 클리어 목적으로 하는 사람들이 점점 보임. 그러나, 일방향 진행 패턴이고, 클리어 후 받는 보상 체계가 없어서 중간에 하는 하는 사람이 11명 x 7방 = 77명 이였으나, 거의 클리어한 사람들이 다시 하지를 않음.
 - **2021학년도 2학기**   
     
-## 셀프체크
-- 백준
-![1](https://user-images.githubusercontent.com/59680587/128967661-ed2bdb58-ac3e-4458-919b-9206fd9655be.PNG)   
-![1_1](https://user-images.githubusercontent.com/59680587/133199637-7f71b0c0-788e-4f2d-b479-696c88e09327.png)
-
-
-- 프로그래머스
-![2](https://user-images.githubusercontent.com/59680587/128967685-918167ae-793e-4edf-9743-5016d88c764d.PNG)
-
-- 봉사활동
-![3](https://user-images.githubusercontent.com/59680587/128967707-78956c2d-1391-4522-b287-423823fe93d5.PNG)
