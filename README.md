@@ -41,14 +41,37 @@
 [BOJ Algorithm Study](https://github.com/alsrua7222/BOJ_Algorithm_Study)    
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mk9901)](https://solved.ac/mk9901)
 
-## Projects
+## Projects(Always link on images)
 -----------------------------
-[MathGraph_MFC](https://github.com/alsrua7222/MFC_MathGraph)    
-[SeleniumNaverCafeWrite](https://github.com/alsrua7222/SeleniumNaverCafeWrite)    
-[TruckTalk](https://github.com/alsrua7222/TruckTalk)    
-[BouncingBall](https://github.com/alsrua7222/BouncingBall)    
-[Bitcoin_eXchangeRate](https://github.com/alsrua7222/BitcoinAutoProcess)    
-[AI AUTO TRADING](https://github.com/alsrua7222/AIAutoTradingProject)   
+### MathGraph_MFC
+<a href="https://github.com/alsrua7222/MFC_MathGraph/" target="_blank">
+  <img src="https://github.com/alsrua7222/MFC_MathGraph/blob/main/res/Title.bmp" alt="MathGraph_MFC">
+</a>
+
+### SeleniumNaverCafeWrite
+<a href="https://github.com/alsrua7222/SeleniumNaverCafeWrite/" target="_black">
+  <img src="https://github.com/alsrua7222/SeleniumNaverCafeWrite/blob/main/title.png" alt="SeleniumNaverCafeWrite">
+</a>
+
+### TruckTalk
+<a href="https://github.com/alsrua7222/TruckTalk/" target="_black">
+  <img src="https://github.com/alsrua7222/TruckTalk/blob/main/logo.png" alt="TruckTalk">
+</a>
+
+### BouncingBall
+<a href="https://github.com/alsrua7222/BouncingBall/" target="_black">
+  <img src="https://github.com/alsrua7222/BouncingBall/blob/main/1.PNG" alt="BouncingBall">
+</a>
+
+### Bitcoin eXchangeRate
+<a href="https://github.com/alsrua7222/BitcoinAutoProcess/" target="_black">
+  <img src="https://github.com/alsrua7222/BitcoinAutoProcess/blob/main/image/cmd/2.PNG" alt="Bitcoin eXchangeRate">
+</a>
+
+### AiAutoTrading
+<a href="https://github.com/alsrua7222/AIAutoTradingProject/" target="_black">
+  <img src="https://github.com/alsrua7222/AIAutoTradingProject/blob/main/logo.png" alt="AiAutoTrading">
+</a>
 
 ## Old Document
 [Get link to old document.](https://github.com/alsrua7222/alsrua7222/blob/main/oldReadme.md)
