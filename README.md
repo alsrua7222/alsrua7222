@@ -65,7 +65,7 @@
 
 ### Bitcoin eXchangeRate
 <a href="https://github.com/alsrua7222/BitcoinAutoProcess/" target="_black">
-  <img src="https://github.com/alsrua7222/BitcoinAutoProcess/blob/main/image/cmd/2.PNG" alt="Bitcoin eXchangeRate">
+  <img src="https://github.com/alsrua7222/BitcoinAutoProcess/blob/main/image/2.PNG" alt="Bitcoin eXchangeRate">
 </a>
 
 ### AiAutoTrading
