@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/Algorithm-advanced-blue"/>
 <img src="https://img.shields.io/badge/Architecture-basic-yellow"/>
 <img src="https://img.shields.io/badge/MySQL-basic-yellow"/>
+<img src="https://img.shields.io/badge/R-basic-yellow"/>
 
 ## BOJ
 [BOJ Algorithm Study](https://github.com/alsrua7222/BOJ_Algorithm_Study)    
