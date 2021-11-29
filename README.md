@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Architecture-basic-yellow"/>
 <img src="https://img.shields.io/badge/MySQL-basic-yellow"/>
 <img src="https://img.shields.io/badge/R-basic-yellow"/>
+<br><br>
 **Machine learning**<br><br>
 <img src="https://img.shields.io/badge/Tensorflow-advanced-blue"/>
 <img src="https://img.shields.io/badge/sklearn-advanced-blue"/>
