@@ -48,6 +48,10 @@
 
 ## Projects(Always link on images)
 -----------------------------
+<details>
+  <summary> <b>클릭해서 보기</b> </summary>
+<br/>
+  
 ### MathGraph_MFC
 <a href="https://github.com/alsrua7222/MFC_MathGraph/" target="_blank">
   <img src="https://github.com/alsrua7222/MFC_MathGraph/blob/main/res/Title.bmp" alt="MathGraph_MFC">
@@ -77,6 +81,8 @@
 <a href="https://github.com/alsrua7222/AIAutoTradingProject/" target="_black">
   <img src="https://github.com/alsrua7222/AIAutoTradingProject/blob/main/logo.png" alt="AiAutoTrading">
 </a>
+
+</details>
 
 ## Old Document
 [Get link to old document.](https://github.com/alsrua7222/alsrua7222/blob/main/oldReadme.md)
