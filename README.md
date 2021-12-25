@@ -8,7 +8,7 @@
 | Name    | MinKyeom Kim(김민겸) |
 | Final Education   | Software, Computer Engineering, KyungNam Uiv.(경남대학교 컴퓨터공학부 소프트웨어과)  |
 | Blog    | https://blog.naver.com/alsrua7222/  |
-| Motto<br>(Comment) | 끝까지 간다. |
+| Motto<br>(Comment) | 끝까지 간다.<br>(배우는 걸 좋아함)|
 
 ## Until & Current
 ------------------------------
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Python-great-success"/>
 <img src="https://img.shields.io/badge/C++-great-success"/>
 <img src="https://img.shields.io/badge/Java-basic-yellow"/>
+<img src="https://img.shields.io/badge/C#-basic-yellow"/>
 <img src="https://img.shields.io/badge/Kotiln-noob-red"/>
 <img src="https://img.shields.io/badge/Javascript-noob-red"/>
 <br><br>
