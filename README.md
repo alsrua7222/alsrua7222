@@ -1,5 +1,6 @@
-# 방문자 수
-![](https://komarev.com/ghpvc/?username=alsrua7222-github-alsrua7222)
+# 통계
+![](https://komarev.com/ghpvc/?username=alsrua7222-github-alsrua7222)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsrua7222&show_icons=true&theme=radical)   
 
 # Simple My-self.
 ------------------------------
@@ -30,6 +31,8 @@
 <img src="https://img.shields.io/badge/CSharp-basic-yellow"/>
 <img src="https://img.shields.io/badge/Kotiln-noob-red"/>
 <img src="https://img.shields.io/badge/Javascript-noob-red"/>
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrua7222&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 **Others**<br><br>
 <img src="https://img.shields.io/badge/CodeReview-advanced-blue"/>
