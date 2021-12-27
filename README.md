@@ -18,23 +18,23 @@
 | HighSchool | Changwon KyungIl | 2015.03 ~ 2018.02 |
 | Uiv. | Kyungnam Uiv. | 2018.03 ~ 2022.02(Will graduation) |
 | Club | V.O.S | 2018.03 ~ 2019.02 menti.<br>2019.03 ~ 2020.06 mento.<br> |
-| Now | 1년 뒤에 **백수** 될 예정. | 2021.10.15 |
+| Now | 1년 뒤에 **백수** 될 예정. | 2021.12.28 |
 
 
 ## Skills
 -----------------------------
 **Programming Languages**<br><br>
-<img src="https://img.shields.io/badge/Python-great-success"/>
+<img src="https://img.shields.io/badge/Python-great-success" height=30/>
 <img src="https://img.shields.io/badge/C++-great-success"/>
 <img src="https://img.shields.io/badge/Java-basic-yellow"/>
-<img src="https://img.shields.io/badge/C#-basic-yellow"/>
+<img src="https://img.shields.io/badge/CSharp-basic-yellow"/>
 <img src="https://img.shields.io/badge/Kotiln-noob-red"/>
 <img src="https://img.shields.io/badge/Javascript-noob-red"/>
 <br><br>
 **Others**<br><br>
 <img src="https://img.shields.io/badge/CodeReview-advanced-blue"/>
 <img src="https://img.shields.io/badge/CodeRefactoring-advanced-blue"/>
-<img src="https://img.shields.io/badge/Algorithm-advanced-blue"/>
+<img src="https://img.shields.io/badge/Algorithm-advanced-blue" height=30/>
 <img src="https://img.shields.io/badge/Architecture-basic-yellow"/>
 <img src="https://img.shields.io/badge/MySQL-basic-yellow"/>
 <img src="https://img.shields.io/badge/R-basic-yellow"/>
@@ -53,32 +53,32 @@
   <summary> <b>클릭해서 보기</b> </summary>
 <br/>
   
-### MathGraph_MFC
+### MathGraph_MFC (09M.19Y ~ 12M.19Y)
 <a href="https://github.com/alsrua7222/MFC_MathGraph/" target="_blank">
   <img src="https://github.com/alsrua7222/MFC_MathGraph/blob/main/res/Title.bmp" alt="MathGraph_MFC">
 </a>
 
-### SeleniumNaverCafeWrite
+### SeleniumNaverCafeWrite (01M.21Y ~ 05M.21Y)
 <a href="https://github.com/alsrua7222/SeleniumNaverCafeWrite/" target="_black">
   <img src="https://github.com/alsrua7222/SeleniumNaverCafeWrite/blob/main/title.png" alt="SeleniumNaverCafeWrite">
 </a>
 
-### TruckTalk
+### TruckTalk (09M.20Y ~ 12M.21Y)
 <a href="https://github.com/alsrua7222/TruckTalk/" target="_black">
   <img src="https://github.com/alsrua7222/TruckTalk/blob/main/logo.png" alt="TruckTalk">
 </a>
 
-### BouncingBall
+### BouncingBall (01M.21Y ~ 01M.21Y)
 <a href="https://github.com/alsrua7222/BouncingBall/" target="_black">
   <img src="https://github.com/alsrua7222/BouncingBall/blob/main/1.PNG" alt="BouncingBall">
 </a>
 
-### Bitcoin eXchangeRate
+### Bitcoin eXchangeRate (01M.21Y ~ Now)
 <a href="https://github.com/alsrua7222/BitcoinAutoProcess/" target="_black">
   <img src="https://github.com/alsrua7222/BitcoinAutoProcess/blob/main/image/2.PNG" alt="Bitcoin eXchangeRate">
 </a>
 
-### AiAutoTrading
+### AiAutoTrading (09M.20Y ~ 07M.21Y)
 <a href="https://github.com/alsrua7222/AIAutoTradingProject/" target="_black">
   <img src="https://github.com/alsrua7222/AIAutoTradingProject/blob/main/logo.png" alt="AiAutoTrading">
 </a>
