@@ -19,7 +19,7 @@
 | HighSchool | Changwon KyungIl | 2015.03 ~ 2018.02 |
 | Uiv. | Kyungnam Uiv. | 2018.03 ~ 2022.02(Will graduation) |
 | Club | V.O.S | 2018.03 ~ 2019.02 menti.<br>2019.03 ~ 2020.06 mento.<br> |
-| Now | 1년 뒤에 **백수** 될 예정. | 2021.12.28 |
+| Now | (empty) | 2022.01.17 |
 
 
 ## Skills
