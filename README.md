@@ -15,7 +15,7 @@
 ------------------------------
 | Type | Description | Detail |
 | :----: | :----: | ----: |
-| First computer study | 중학교 2학년 | I got it from Cheaters. I was angry.<br>I learned language C, base CS and base english. |
+| First computer study | 중학교 2학년 | 악성유저들 잡기 위해 영어 + CS 지식 배우기 시작. |
 | HighSchool | Changwon KyungIl | 2015.03 ~ 2018.02 |
 | Uiv. | Kyungnam Uiv. | 2018.03 ~ 2022.02(Will graduation) |
 | Club | V.O.S | 2018.03 ~ 2019.02 menti.<br>2019.03 ~ 2020.06 mento.<br> |
