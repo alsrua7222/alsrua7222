@@ -88,5 +88,12 @@
 
 </details>
 
+## 빠른 학점 계산기
+1학년 - 3.9   
+2학년 - 4.0   
+3학년 - 4.3   
+4학년 - 4.3   
+총 평점 - 4.1    
+
 ## Old Document
 [Get link to old document.](https://github.com/alsrua7222/alsrua7222/blob/main/oldReadme.md)
