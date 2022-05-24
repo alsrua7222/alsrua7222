@@ -112,5 +112,7 @@
 4학년 - 4.3   
 총 평점 - 4.1    
 
+전공학점 82점 / 4.16점
+
 ## Old Document
 [Get link to old document.](https://github.com/alsrua7222/alsrua7222/blob/main/oldReadme.md)
