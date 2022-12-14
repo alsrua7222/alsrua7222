@@ -4,22 +4,7 @@
 
 # Simple My-self.
 ------------------------------
-| Type | Description |
-| :----: | :----: |
-| Name    | MinKyeom Kim(김민겸) |
-| Final Education   | Software, Computer Engineering, KyungNam Uiv.(경남대학교 컴퓨터공학부 소프트웨어과)  |
-| Blog    | https://blog.naver.com/alsrua7222/  |
-| Motto<br>(Comment) | 끝까지 간다.<br>(배우는 걸 좋아함)|
-
-## Until & Current
-------------------------------
-| Type | Description | Detail |
-| :----: | :----: | ----: |
-| First computer study | 중학교 2학년 | 악성유저들 잡기 위해 영어 + CS 지식 배우기 시작. |
-| HighSchool | Changwon KyungIl | 2015.03 ~ 2018.02 |
-| Uiv. | Kyungnam Uiv. | 2018.03 ~ 2022.02(Will graduation) |
-| Club | V.O.S | 2018.03 ~ 2019.02 menti.<br>2019.03 ~ 2020.06 mento.<br> |
-| Now | (empty) | 2022.01.17 |
+sex
 
 
 ## Skills
